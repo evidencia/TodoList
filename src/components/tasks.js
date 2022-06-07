@@ -5,7 +5,7 @@ import { DeleteTask, DeleteAllTask } from './DeleteTask';
 
 import { HStack, Box, VStack, Flex, Text, StackDivider,Checkbox, Image, Button} from '@chakra-ui/react'
 
-import img from '../assets/images/empty.png'
+import img from '../assets/images/edit.png'
 
 function showTasks(tasks, updateTask, deleteTask, deleteTaskAll, checkTask, isDone = false) {
     return (
