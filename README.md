@@ -3,7 +3,7 @@ Um aplicativo de lista de tarefas simples desenvolvido com React, Chakra UI, Rea
 
 
 
-## 🚀 Getting Started
+## 🚀
 
 + Clone este repositório 
 ```jsx
